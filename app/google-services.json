@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "553689611139",
+    "firebase_url": "https://fb-realtime-db1-default-rtdb.firebaseio.com",
+    "project_id": "fb-realtime-db1",
+    "storage_bucket": "fb-realtime-db1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553689611139:android:747bd25fbafe58de8c54b6",
+        "android_client_info": {
+          "package_name": "com.example.fbrealtimedb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMCMZ8Xa0wprGoDxE7XUXUDIWJdFpBGEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
